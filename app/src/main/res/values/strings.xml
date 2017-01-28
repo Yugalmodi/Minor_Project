@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dravidian university</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_mail">Send Email</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="subject">Subject</string>
+    <string name="email">Email</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="sname">Student Name</string>
+    <string name="sno">Student Number</string>
+    <string name="no">Number</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    <string name="compose">Compose</string>
+    <string name="to">To</string>
+    <string name="welcome">Welcome To Dravidian University</string>
+    <string name="bTech">B. Tech.</string>
+    <string name="mca">MCA</string>
+    <string name="userName">User Name</string>
+    <string name="password">Pass Word</string>
+    <string name="login">Login</string>
+    <string name="forgotPass">Forgot PassWord?...</string>
+    <string name="regisEmail">Registered Email</string>
+    <string name="reqPassword">Req password</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="mobile">Mobile</string>
+    <string name="eno">E.No</string>
+    <string name="pword">P. Word</string>
+    <string name="confirm">Confirm</string>
+    <string name="hint">PW hint</string>
+    <string name="register">Register</string>
+    <string name="tName">T. Name</string>
+    <string name="tCell">T. Cell</string>
+    <string name="go">Go</string>
+    <string name="searchBy">Search by</string>
+    <string name="searchNameNo">Search by Name [or] Mobile</string>
+    <string name="newuser">New User?...</string>
+    <string name="haveAcc">Have An Account?</string>
+</resources>

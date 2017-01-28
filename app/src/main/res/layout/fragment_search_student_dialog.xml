@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.techpalle.dravidianuniversityminiproject.SearchStudentDialogFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sno"
+        android:textSize="@dimen/sixteenSP"
+        android:textColor="@color/white"
+        android:id="@+id/dialog_no"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sname"
+        android:textSize="@dimen/sixteenSP"
+        android:textColor="@color/white"
+        android:id="@+id/dialog_name"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mobile"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sixteenSP"
+        android:id="@+id/dialog_mobile"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        android:textSize="@dimen/sixteenSP"
+        android:textColor="@color/white"
+        android:id="@+id/dialog_email"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/subject"
+        android:textSize="@dimen/sixteenSP"
+        android:textColor="@color/white"
+        android:id="@+id/dialog_subject"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sixteenSP"
+        android:id="@+id/dialog_description"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/date"
+        android:textSize="@dimen/sixteenSP"
+        android:textColor="@color/white"
+        android:id="@+id/dialog_date"/>
+</LinearLayout>
+
